@@ -1,0 +1,1 @@
+cp fuck_tiny.* $env.RIME_TARGET

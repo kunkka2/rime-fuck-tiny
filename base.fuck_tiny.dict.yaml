@@ -1,0 +1,21 @@
+# Rime dictionary
+# mim: set ts=8 sw=8 noet:
+# encoding: utf-8
+#
+# fuck_tiny - Fuck Tiny
+#
+# kunkka2 <kunkka2@github.com>
+#
+# uck Tiny
+#
+
+---
+name: fuck_tiny
+version: "0.2"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+Radiant	rad
+Dire	dir
+opposite	opp

@@ -1,0 +1,172 @@
+Anti-Mage	hant
+Anti-Mage	ham
+Axe	haxe
+Bane	hban
+Bloodseeker	hblo
+Crystal Maiden	hcry
+Crystal Maiden	hcm
+Drow Ranger	hdro
+Drow Ranger	hdr
+Earthshaker	hear
+Juggernaut	hjug
+Mirana	hmir
+Morphling	hmor
+Shadow Fiend	hsha
+Shadow Fiend	hsf
+Phantom Lancer	hpha
+Phantom Lancer	hpl
+Puck	hpuc
+Pudge	hpud
+Razor	hraz
+Sand King	hsan
+Sand King	hsk
+Storm Spirit	hsto
+Storm Spirit	hss
+Sven	hsve
+Tiny	htin
+Vengeful Spirit	hven
+Vengeful Spirit	hvs
+Windranger	hwin
+Zeus	hzeu
+Kunkka	hkun
+Lina	hlin
+Lion	hlio
+Shadow Shaman	hsha
+Shadow Shaman	hss
+Slardar	hsla
+Tidehunter	htid
+Witch Doctor	hwit
+Witch Doctor	hwd
+Lich	hlic
+Riki	hrik
+Enigma	heni
+Tinker	htin
+Sniper	hsni
+Necrophos	hnec
+Warlock	hwar
+Beastmaster	hbea
+Queen of Pain	hque
+Queen of Pain	hqop
+Venomancer	hven
+Faceless Void	hfac
+Faceless Void	hfv
+Wraith King	hwra
+Wraith King	hwk
+Death Prophet	hdea
+Death Prophet	hdp
+Phantom Assassin	hpha
+Phantom Assassin	hpa
+Pugna	hpug
+Templar Assassin	htem
+Templar Assassin	hta
+Viper	hvip
+Luna	hlun
+Dragon Knight	hdra
+Dragon Knight	hdk
+Dazzle	hdaz
+Clockwerk	hclo
+Leshrac	hles
+Nature's Prophet	hnat
+Nature's Prophet	hnp
+Lifestealer	hlif
+Dark Seer	hdar
+Dark Seer	hds
+Clinkz	hcli
+Omniknight	homn
+Enchantress	henc
+Huskar	hhus
+Night Stalker	hnig
+Night Stalker	hns
+Broodmother	hbro
+Bounty Hunter	hbou
+Bounty Hunter	hbh
+Weaver	hwea
+Jakiro	hjak
+Batrider	hbat
+Chen	hche
+Spectre	hspe
+Ancient Apparition	hanc
+Ancient Apparition	haa
+Doom	hdoo
+Ursa	hurs
+Spirit Breaker	hspi
+Spirit Breaker	hsb
+Gyrocopter	hgyr
+Alchemist	halc
+Invoker	hinv
+Silencer	hsil
+Outworld Devourer	hout
+Outworld Devourer	hod
+Lycan	hlyc
+Brewmaster	hbre
+Shadow Demon	hsha
+Shadow Demon	hsd
+Lone Druid	hlon
+Lone Druid	hld
+Chaos Knight	hcha
+Chaos Knight	hck
+Meepo	hmee
+Treant Protector	htre
+Treant Protector	htp
+Ogre Magi	hogr
+Ogre Magi	hom
+Undying	hund
+Rubick	hrub
+Disruptor	hdis
+Nyx Assassin	hnyx
+Nyx Assassin	hna
+Naga Siren	hnag
+Naga Siren	hns
+Keeper of the Light	hkee
+Keeper of the Light	hkotl
+Io	hio
+Visage	hvis
+Slark	hsla
+Medusa	hmed
+Troll Warlord	htro
+Troll Warlord	htw
+Centaur Warrunner	hcen
+Centaur Warrunner	hcw
+Magnus	hmag
+Timbersaw	htim
+Bristleback	hbri
+Tusk	htus
+Skywrath Mage	hsky
+Skywrath Mage	hsm
+Abaddon	haba
+Elder Titan	held
+Elder Titan	het
+Legion Commander	hleg
+Legion Commander	hlc
+Techies	htec
+Ember Spirit	hemb
+Ember Spirit	hes
+Earth Spirit	hear
+Earth Spirit	hes
+Underlord	hund
+Terrorblade	hter
+Phoenix	hpho
+Oracle	hora
+Winter Wyvern	hwin
+Winter Wyvern	hww
+Arc Warden	harc
+Arc Warden	haw
+Monkey King	hmon
+Monkey King	hmk
+Dark Willow	hdar
+Dark Willow	hdw
+Pangolier	hpan
+Grimstroke	hgri
+Hoodwink	hhoo
+Void Spirit	hvoi
+Void Spirit	hvs
+Snapfire	hsna
+Mars	hmar
+Ring Master	hrin
+Ring Master	hrm
+Dawnbreaker	hdaw
+Marci	hmar
+Primal Beast	hpri
+Primal Beast	hpb
+Muerta	hmue
+Kez	hkez
