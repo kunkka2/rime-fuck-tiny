@@ -1,651 +1,663 @@
-Phase Boots	ipha
-Phase Boots	ipb
-Ocean Heart	ioce
-Ocean Heart	ioh
-Lunar Crest	ilun
-Lunar Crest	ilc
-Lance of Pursuit	ilan
-Lance of Pursuit	ilop
-Titan Sliver	itit
-Titan Sliver	its
-Drum of Endurance	idru
-Drum of Endurance	idoe
-Dominant	idom
-Shiva's Guard	ishi
-Shiva's Guard	isg
-Mekansm	imek
-Orb of Destruction	iorb
-Orb of Destruction	iood
-Tome of Aghanim	itom
-Tome of Aghanim	itoa
-Fallen Sky	ifal
-Fallen Sky	ifs
-Occult Bracelet	iocc
-Occult Bracelet	iob
-Rattlecage	irat
-Glimmer Cape	igli
-Glimmer Cape	igc
-Sage's Mask	isag
-Sage's Mask	ism
-Yasha	iyas
-Ring of Protection	irin
-Ring of Protection	irop
-Tier 1 Token	itie
-Tier 1 Token	it1t
-Broadsword	ibro
-Circlet	icir
-Enchanted Mango	ienc
-Enchanted Mango	iem
-Parasma	ipar
-Vampiric	ivam
-Witchbane	iwit
-Point Booster	ipoi
-Point Booster	ipb
-Ogre Seal Totem	iogr
-Ogre Seal Totem	iost
-Diadem	idia
-Power Treads	ipow
-Power Treads	ipt
-Great Healing Lotus	igre
-Great Healing Lotus	ighl
-Light Collector	ilig
-Light Collector	ilc
-Gris-Gris	igri
-Gris-Gris	igg
-Giant's Maul	igia
-Giant's Maul	igm
-Gunpowder Gauntlet	igun
-Gunpowder Gauntlet	igg
-Bracer	ibra
-Telescope	itel
-Silver Edge	isil
-Silver Edge	ise
-Flying Courier	ifly
-Flying Courier	ifc
-Monkey King Bar	imon
-Monkey King Bar	imkb
-Minotaur Horn	imin
-Minotaur Horn	imh
-Dandelion Amulet	idan
-Dandelion Amulet	ida
-Helm of the Overlord	ihel
-Helm of the Overlord	ihoto
-Belt of Strength	ibel
-Belt of Strength	ibos
-Seeds of Serenity	isee
-Seeds of Serenity	isos
-Spell Prism	ispe
-Spell Prism	isp
-Armlet of Mordiggian	iarm
-Armlet of Mordiggian	iaom
-Hand of Midas	ihan
-Hand of Midas	ihom
-Kaya and Sange	ikay
-Kaya and Sange	ikas
-Gossamer Cape	igos
-Gossamer Cape	igc
-Force Staff	ifor
-Force Staff	ifs
-Cloak of Flames	iclo
-Cloak of Flames	icof
-Shadow Blade	isha
-Shadow Blade	isb
-Tombstone	itom
-Abyssal Blade	iaby
-Abyssal Blade	iab
-Mystical	imys
-Dust of Appearance	idus
-Dust of Appearance	idoa
-Scythe of Vyse	iscy
-Scythe of Vyse	isov
-Guardian Greaves	igua
-Guardian Greaves	igg
-Diffusal Blade	idif
-Diffusal Blade	idb
-Yasha and Kaya	iyas
-Yasha and Kaya	iyak
-Spider Legs	ispi
-Spider Legs	isl
-Shadow Amulet	isha
-Shadow Amulet	isa
-Book of Shadows	iboo
-Book of Shadows	ibos
-Phylactery	iphy
-Eul's Scepter of Divinity	ieul
-Eul's Scepter of Divinity	iesod
-Aeon Disk	iaeo
-Aeon Disk	iad
-Vindicator's Axe	ivin
-Vindicator's Axe	iva
-Healing Salve	ihea
-Healing Salve	ihs
-Assault Cuirass	iass
-Assault Cuirass	iac
-Whisper of the Dread	iwhi
-Whisper of the Dread	iwotd
-Pavise	ipav
-Energy Booster	iene
-Energy Booster	ieb
-Orb of Venom	iorb
-Orb of Venom	ioov
-Dagger of Ristul	idag
-Dagger of Ristul	idor
-Skull Basher	isku
-Skull Basher	isb
-Gleipnir	igle
-Hood of Defiance	ihoo
-Hood of Defiance	ihod
-Dezun Bloodrite	idez
-Dezun Bloodrite	idb
-Royal Jelly	iroy
-Royal Jelly	irj
-Morbid Mask	imor
-Morbid Mask	imm
-Quelling Blade	ique
-Quelling Blade	iqb
-Eaglesong	ieag
-Clumsy Net	iclu
-Clumsy Net	icn
-Madstone Bundle	imad
-Madstone Bundle	imb
-Disperser	idis
-Serrated Shiv	iser
-Serrated Shiv	iss
-Gauntlets of Strength	igau
-Gauntlets of Strength	igos
-Illusionist's Cape	iill
-Illusionist's Cape	iic
-Helm of the Dominator	ihel
-Helm of the Dominator	ihotd
-Possessed Mask	ipos
-Possessed Mask	ipm
-Stygian Desolator	isty
-Stygian Desolator	isd
-Prince's Knife	ipri
-Prince's Knife	ipk
-Fae Grenade	ifae
-Fae Grenade	ifg
-Iron Talon	iiro
-Iron Talon	iit
-Desolator	ides
-The Leveller	ithe
-The Leveller	itl
-Divine Regalia	idiv
-Divine Regalia	idr
-Pollywog Charm	ipol
-Pollywog Charm	ipc
-Trusty Shovel	itru
-Trusty Shovel	its
-Revenant's Brooch	irev
-Revenant's Brooch	irb
-Ogre Axe	iogr
-Ogre Axe	ioa
-Aegis of the Immortal	iaeg
-Aegis of the Immortal	iaoti
-Ethereal Blade	ieth
-Ethereal Blade	ieb
-Mjollnir	imjo
-Pirate Hat	ipir
-Pirate Hat	iph
-Faerie Fire	ifae
-Faerie Fire	iff
-Khanda	ikha
-Chipped Vest	ichi
-Chipped Vest	icv
-Hyperstone	ihyp
-Veil of Discord	ivei
-Veil of Discord	ivod
-Pocket Tower	ipoc
-Pocket Tower	ipt
-Force Boots	ifor
-Force Boots	ifb
-Fusion Rune	ifus
-Fusion Rune	ifr
-Cornucopia	icor
-Ninja Gear	inin
-Ninja Gear	ing
-Pig Pole	ipig
-Pig Pole	ipp
-Stormcrafter	isto
-Void Stone	ivoi
-Void Stone	ivs
-Titanic	itit
-Bloodstone	iblo
-Blitz Knuckles	ibli
-Blitz Knuckles	ibk
-Aghanim's Shard	iagh
-Aghanim's Shard	ias
-Heart of Tarrasque	ihea
-Heart of Tarrasque	ihot
-Perseverance	iper
-Faded Broach	ifad
-Faded Broach	ifb
-Eternal Shroud	iete
-Eternal Shroud	ies
-Tranquil Boots	itra
-Tranquil Boots	itb
-Boots of Travel 2	iboo
-Boots of Travel 2	ibot2
-Keen Optic	ikee
-Keen Optic	iko
-Witless Shako	iwit
-Witless Shako	iws
-Linken's Sphere	ilin
-Linken's Sphere	ils
-Infused Raindrops	iinf
-Infused Raindrops	iir
-Bullwhip	ibul
-Rod of Atos	irod
-Rod of Atos	iroa
-Pyrrhic Cloak	ipyr
-Pyrrhic Cloak	ipc
-Lotus Orb	ilot
-Lotus Orb	ilo
-Stout Shield	isto
-Stout Shield	iss
-Pipe of Insight	ipip
-Pipe of Insight	ipoi
-Gale Guard	igal
-Gale Guard	igg
-Ultimate Orb	iult
-Ultimate Orb	iuo
-Quarterstaff	iqua
-Holy Locket	ihol
-Holy Locket	ihl
-Moon Shard	imoo
-Moon Shard	ims
-Fairy's Trinket	ifai
-Fairy's Trinket	ift
-Defiant Shell	idef
-Defiant Shell	ids
-Eye of the Vizier	ieye
-Eye of the Vizier	ieotv
-Mystic Staff	imys
-Mystic Staff	ims
-Bottle	ibot
-Blood Grenade	iblo
-Blood Grenade	ibg
-Javelin	ijav
-Sange	isan
-Robe of the Magi	irob
-Robe of the Magi	irotm
-Restorative	ires
-Kaya	ikay
-Ring of Regen	irin
-Ring of Regen	iror
-Necronomicon	inec
-Blade of Alacrity	ibla
-Blade of Alacrity	iboa
-Nether Shawl	inet
-Nether Shawl	ins
-Timeless	itim
-Vitality Booster	ivit
-Vitality Booster	ivb
-Ceremonial Robe	icer
-Ceremonial Robe	icr
-Tango	itan
-Vast	ivas
-Battle Fury	ibat
-Battle Fury	ibf
-Headdress	ihea
-Octarine Core	ioct
-Octarine Core	ioc
-Orb of Frost	iorb
-Orb of Frost	ioof
-Wise	iwis
-Havoc Hammer	ihav
-Havoc Hammer	ihh
-Greedy	igre
-Dagon	idag
-Blades of Attack	ibla
-Blades of Attack	iboa
-Staff of Wizardry	ista
-Staff of Wizardry	isow
-Keen-eyed	ikee
-Keen-eyed	ike
-Satanic	isat
-Paladin Sword	ipal
-Paladin Sword	ips
-Refresher Shard	iref
-Refresher Shard	irs
-Searing Signet	isea
-Searing Signet	iss
-Alert	iale
-Medallion of Courage	imed
-Medallion of Courage	imoc
-Black King Bar	ibla
-Black King Bar	ibkb
-Vampire Fangs	ivam
-Vampire Fangs	ivf
-Poor Man's Shield	ipoo
-Poor Man's Shield	ipms
-Mithril Hammer	imit
-Mithril Hammer	imh
-Radiance	irad
-Evolved	ievo
-Sange and Yasha	isan
-Sange and Yasha	isay
-Seer Stone	isee
-Seer Stone	iss
-Mage Slayer	imag
-Mage Slayer	ims
-Meteor Hammer	imet
-Meteor Hammer	imh
-Urn of Shadows	iurn
-Urn of Shadows	iuos
-Mask of Madness	imas
-Mask of Madness	imom
-Swift Blink	iswi
-Swift Blink	isb
-Ripper's Lash	irip
-Ripper's Lash	irl
-Book of the Dead	iboo
-Book of the Dead	ibotd
-Brawny	ibra
-Buckler	ibuc
-Spirit Vessel	ispi
-Spirit Vessel	isv
-Bag of Gold	ibag
-Bag of Gold	ibog
-Ballista	ibal
-Nullifier	inul
-Arcane Blink	iarc
-Arcane Blink	iab
-Boots of Speed	iboo
-Boots of Speed	ibos
-Animal Courier	iani
-Animal Courier	iac
-Audacious	iaud
-Tumbler's Toy	itum
-Tumbler's Toy	itt
-Crude	icru
-Tiara of Selemene	itia
-Tiara of Selemene	itos
-Elusive	ielu
-Thick	ithi
-Tier 3 Token	itie
-Tier 3 Token	it3t
-Tier 5 Token	itie
-Tier 5 Token	it5t
-Voodoo Mask	ivoo
-Voodoo Mask	ivm
-Clarity	icla
-Sentry Ward	isen
-Sentry Ward	isw
-Giant's Ring	igia
-Giant's Ring	igr
-Vladmir's Offering	ivla
-Vladmir's Offering	ivo
-Jidi Pollen Bag	ijid
-Jidi Pollen Bag	ijpb
-Pocket Roshan	ipoc
-Pocket Roshan	ipr
-Ascetic's Cap	iasc
-Ascetic's Cap	iac
-Chainmail	icha
-Null Talisman	inul
-Null Talisman	int
-Boots of Travel	iboo
-Boots of Travel	ibot
-Craggy Coat	icra
-Craggy Coat	icc
-Roshan's Banner	iros
-Roshan's Banner	irb
-Crystal Raindrop	icry
-Crystal Raindrop	icr
-Witch Blade	iwit
-Witch Blade	iwb
-Arcanist's Armor	iarc
-Arcanist's Armor	iaa
 Gloves of Haste	iglo
 Gloves of Haste	igoh
-Scrying Shovel	iscr
-Scrying Shovel	iss
-Orb of Blight	iorb
-Orb of Blight	ioob
-Arcane Boots	iarc
-Arcane Boots	iab
-Specialist's Array	ispe
-Specialist's Array	isa
-Tier 2 Token	itie
-Tier 2 Token	it2t
-Falcon Blade	ifal
-Falcon Blade	ifb
-Crippling Crossbow	icri
-Crippling Crossbow	icc
-Circlet of the Flayed Twins	icir
-Circlet of the Flayed Twins	icotft
-Blink Dagger	ibli
-Blink Dagger	ibd
-Sister's Shroud	isis
-Sister's Shroud	iss
-Eye of Skadi	ieye
-Eye of Skadi	ieos
-Oblivion Staff	iobl
-Oblivion Staff	ios
-Imp Claw	iimp
-Imp Claw	iic
-Ex Machina	iex 
-Ex Machina	iem
-Boundless	ibou
-Ring of Aquila	irin
-Ring of Aquila	iroa
-Daedalus	idae
-Elven Tunic	ielv
-Elven Tunic	iet
-Smoke of Deceit	ismo
-Smoke of Deceit	isod
-Band of Elvenskin	iban
-Band of Elvenskin	iboe
-Doubloon	idou
-Spark of Courage	ispa
-Spark of Courage	isoc
-Mirror Shield	imir
-Mirror Shield	ims
-Dragon Scale	idra
-Dragon Scale	ids
-Nemesis Curse	inem
-Nemesis Curse	inc
-Soul Booster	isou
-Soul Booster	isb
-Heaven's Halberd	ihea
-Heaven's Halberd	ihh
-Unwavering Condition	iunw
-Unwavering Condition	iuc
-Mango Tree	iman
-Mango Tree	imt
-Timeless Relic	itim
-Timeless Relic	itr
-Safety Bubble	isaf
-Safety Bubble	isb
-Hurricane Pike	ihur
-Hurricane Pike	ihp
-Blast Rig	ibla
-Blast Rig	ibr
-Manta Style	iman
-Manta Style	ims
-Boots of Bearing	iboo
-Boots of Bearing	ibob
-Psychic Headband	ipsy
-Psychic Headband	iph
+Vanguard	ivan
 Beloved Memory	ibel
 Beloved Memory	ibm
-Ring of Health	irin
-Ring of Health	iroh
-Reaver	irea
-Aghanim's Scepter	iagh
-Aghanim's Scepter	ias
-Vanguard	ivan
-Accursed	iacc
-Mantle of Intelligence	iman
-Mantle of Intelligence	imoi
-Outworld Staff	iout
-Outworld Staff	ios
-Duelist Gloves	idue
-Duelist Gloves	idg
-Block of Cheese	iblo
-Block of Cheese	iboc
-Repair Kit	irep
-Repair Kit	irk
-Sacred Relic	isac
-Sacred Relic	isr
-Echo Sabre	iech
-Echo Sabre	ies
-Slippers of Agility	isli
-Slippers of Agility	isoa
+Phoenix Ash	ipho
+Phoenix Ash	ipa
+Black King Bar	ibla
+Black King Bar	ibkb
+Cloak	iclo
+Quarterstaff	iqua
+Ash Legion Shield	iash
+Ash Legion Shield	ials
+Crude	icru
+Pig Pole	ipig
+Pig Pole	ipp
+Giant's Ring	igia
+Giant's Ring	igr
+Shadow of Vengeance	isha
+Shadow of Vengeance	isov
+Craggy Coat	icra
+Craggy Coat	icc
+Serrated Shiv	iser
+Serrated Shiv	iss
+Poor Man's Shield	ipoo
+Poor Man's Shield	ipms
+Imp Claw	iimp
+Imp Claw	iic
+Witless Shako	iwit
+Witless Shako	iws
+Phase Boots	ipha
+Phase Boots	ipb
+Giant's Maul	igia
+Giant's Maul	igm
+Spell Prism	ispe
+Spell Prism	isp
+Greater Healing Lotus	igre
+Greater Healing Lotus	ighl
+Animal Courier	iani
+Animal Courier	iac
+Elixir	ieli
+Scrying Shovel	iscr
+Scrying Shovel	iss
+Vampiric	ivam
+Force Boots	ifor
+Force Boots	ifb
+Mercy and Grace	imer
+Mercy and Grace	imag
+Ghost Scepter	igho
+Ghost Scepter	igs
+Soul Booster	isou
+Soul Booster	isb
+Lotus Orb	ilot
+Lotus Orb	ilo
+Void Stone	ivoi
+Void Stone	ivs
+Blitz Knuckles	ibli
+Blitz Knuckles	ibk
+Faerie Fire	ifae
+Faerie Fire	iff
+Tiara of Selemene	itia
+Tiara of Selemene	itos
+Healing Lotus	ihea
+Healing Lotus	ihl
+Cheese	iche
+Havoc Hammer	ihav
+Havoc Hammer	ihh
+Circlet of the Flayed Twins	icir
+Circlet of the Flayed Twins	icotft
+Ring of Aquila	irin
+Ring of Aquila	iroa
+Force Staff	ifor
+Force Staff	ifs
+Spider Legs	ispi
+Spider Legs	isl
+Vindicator's Axe	ivin
+Vindicator's Axe	iva
+Arcanist's Armor	iarc
+Arcanist's Armor	iaa
+Kaya	ikay
+Fusion Rune	ifus
+Fusion Rune	ifr
+Boots of Bearing	iboo
+Boots of Bearing	ibob
+Grove Bow	igro
+Grove Bow	igb
 Ring of Tarrasque	irin
 Ring of Tarrasque	irot
+Shadow Blade	isha
+Shadow Blade	isb
+Magic Stick	imag
+Magic Stick	ims
+Orb of Destruction	iorb
+Orb of Destruction	iood
+Mekansm	imek
+Oblivion Staff	iobl
+Oblivion Staff	ios
+Fleetfooted	ifle
+Dormant Curio	idor
+Dormant Curio	idc
+Weighted Dice	iwei
+Weighted Dice	iwd
+Aviana's Feather	iavi
+Aviana's Feather	iaf
+Ultimate Orb	iult
+Ultimate Orb	iuo
+Clarity	icla
+Heart of Tarrasque	ihea
+Heart of Tarrasque	ihot
+Orb of Blight	iorb
+Orb of Blight	ioob
+Belt of Strength	ibel
+Belt of Strength	ibos
+Defiant Shell	idef
+Defiant Shell	ids
+Vast	ivas
+Butterfly	ibut
+Mind Breaker	imin
+Mind Breaker	imb
+Stout Shield	isto
+Stout Shield	iss
+Mango Tree	iman
+Mango Tree	imt
+Blade Mail	ibla
+Blade Mail	ibm
+Blink Dagger	ibli
+Blink Dagger	ibd
+Point Booster	ipoi
+Point Booster	ipb
+Boots of Travel	iboo
+Boots of Travel	ibot
+Essence Ring	iess
+Essence Ring	ier
+Quicksilver Amulet	iqui
+Quicksilver Amulet	iqa
+Shadow Amulet	isha
+Shadow Amulet	isa
+Rattlecage	irat
+Eaglesong	ieag
+Ethereal Blade	ieth
+Ethereal Blade	ieb
+Sage's Mask	isag
+Sage's Mask	ism
+Blade of Alacrity	ibla
+Blade of Alacrity	iboa
+Pollywog Charm	ipol
+Pollywog Charm	ipc
+Helm of Iron Will	ihel
+Helm of Iron Will	ihoiw
+Wraith Pact	iwra
+Wraith Pact	iwp
+Holy Locket	ihol
+Holy Locket	ihl
+Kaya and Sange	ikay
+Kaya and Sange	ikas
+Bottle	ibot
+Gale Guard	igal
+Gale Guard	igg
+Vladmir's Offering	ivla
+Vladmir's Offering	ivo
+Fae Grenade	ifae
+Fae Grenade	ifg
+Eye of the Vizier	ieye
+Eye of the Vizier	ieotv
+Searing Signet	isea
+Searing Signet	iss
+Witchbane	iwit
+Diadem	idia
+Mana Draught	iman
+Mana Draught	imd
+Scythe of Vyse	iscy
+Scythe of Vyse	isov
+Band of Elvenskin	iban
+Band of Elvenskin	iboe
+Refresher Orb	iref
+Refresher Orb	iro
+Pyrrhic Cloak	ipyr
+Pyrrhic Cloak	ipc
+Orb of Frost	iorb
+Orb of Frost	ioof
+Whisper of the Dread	iwhi
+Whisper of the Dread	iwotd
+Arcane Boots	iarc
+Arcane Boots	iab
+Book of the Dead	iboo
+Book of the Dead	ibotd
+Possessed Mask	ipos
+Possessed Mask	ipm
+Eternal Shroud	iete
+Eternal Shroud	ies
+Stormcrafter	isto
+Keen-eyed	ikee
+Keen-eyed	ike
+Blast Rig	ibla
+Blast Rig	ibr
+Claymore	icla
+Crystal Raindrop	icry
+Crystal Raindrop	icr
+Fairy's Trinket	ifai
+Fairy's Trinket	ift
+Null Talisman	inul
+Null Talisman	int
+Mantle of Intelligence	iman
+Mantle of Intelligence	imoi
+Eul's Scepter of Divinity	ieul
+Eul's Scepter of Divinity	iesod
+Demon Edge	idem
+Demon Edge	ide
+Witch Blade	iwit
+Witch Blade	iwb
+Quickened	iqui
+Psychic Headband	ipsy
+Psychic Headband	iph
+Telescope	itel
+Fierce	ifie
+Doubloon	idou
 Martyr's Plate	imar
 Martyr's Plate	imp
-Butterfly	ibut
+Ogre Axe	iogr
+Ogre Axe	ioa
+Desolator	ides
+Ascetic's Cap	iasc
+Ascetic's Cap	iac
+Unrelenting Eye	iunr
+Unrelenting Eye	iue
+Perseverance	iper
+Pipe of Insight	ipip
+Pipe of Insight	ipoi
+Flying Courier	ifly
+Flying Courier	ifc
+Trusty Shovel	itru
+Trusty Shovel	its
+Great Healing Lotus	igre
+Great Healing Lotus	ighl
+Helm of the Overlord	ihel
+Helm of the Overlord	ihoto
+Aether Lens	iaet
+Aether Lens	ial
+Aeon Disk	iaeo
+Aeon Disk	iad
+Elusive	ielu
+Bracer	ibra
+Madstone Bundle	imad
+Madstone Bundle	imb
+Yasha	iyas
+Sange and Yasha	isan
+Sange and Yasha	isay
+Occult Bracelet	iocc
+Occult Bracelet	iob
+Tombstone	itom
+Phylactery	iphy
+Crippling Crossbow	icri
+Crippling Crossbow	icc
+Wise	iwis
+Skull Basher	isku
+Skull Basher	isb
+Gossamer Cape	igos
+Gossamer Cape	igc
+Monkey King Bar	imon
+Monkey King Bar	imkb
+Wraith Band	iwra
+Wraith Band	iwb
+Helm of the Dominator	ihel
+Helm of the Dominator	ihotd
+Nether Shawl	inet
+Nether Shawl	ins
+Spirit Vessel	ispi
+Spirit Vessel	isv
+Brawny	ibra
+Vambrace	ivam
+Gauntlets of Strength	igau
+Gauntlets of Strength	igos
+Diffusal Blade	idif
+Diffusal Blade	idb
+Ring of Basilius	irin
+Ring of Basilius	irob
+Jidi Pollen Bag	ijid
+Jidi Pollen Bag	ijpb
+Bag of Gold	ibag
+Bag of Gold	ibog
+Meteor Hammer	imet
+Meteor Hammer	imh
+Thick	ithi
+Riftshadow Prism	irif
+Riftshadow Prism	irp
+Roshan's Banner	iros
+Roshan's Banner	irb
+Observer and Sentry Wards	iobs
+Observer and Sentry Wards	ioasw
+Lunar Crest	ilun
+Lunar Crest	ilc
+Gleipnir	igle
+Aegis of the Immortal	iaeg
+Aegis of the Immortal	iaoti
+Glimmer Cape	igli
+Glimmer Cape	igc
+Ocean Heart	ioce
+Ocean Heart	ioh
+Feverish	ifev
+Evolved	ievo
+Crystalys	icry
+Headdress	ihea
+Yasha and Kaya	iyas
+Yasha and Kaya	iyak
+Prince's Knife	ipri
+Prince's Knife	ipk
+Swift Blink	iswi
+Swift Blink	isb
+Octarine Core	ioct
+Octarine Core	ioc
+Cloak of Flames	iclo
+Cloak of Flames	icof
+Circlet	icir
+Ogre Seal Totem	iogr
+Ogre Seal Totem	iost
+Hurricane Pike	ihur
+Hurricane Pike	ihp
+Eye of Skadi	ieye
+Eye of Skadi	ieos
+Solar Crest	isol
+Solar Crest	isc
+Guardian Greaves	igua
+Guardian Greaves	igg
+Mystic Staff	imys
+Mystic Staff	ims
+Nullifier	inul
+Manta Style	iman
+Manta Style	ims
+Sange	isan
+Tier 3 Token	itie
+Tier 3 Token	it3t
+Medallion of Courage	imed
+Medallion of Courage	imoc
+Dandelion Amulet	idan
+Dandelion Amulet	ida
+Duelist Gloves	idue
+Duelist Gloves	idg
+Chipped Vest	ichi
+Chipped Vest	icv
+Boundless	ibou
+Ballista	ibal
+Orchid Malevolence	iorc
+Orchid Malevolence	iom
+Spark of Courage	ispa
+Spark of Courage	isoc
+Timeless Relic	itim
+Timeless Relic	itr
+Tough	itou
+Magic Wand	imag
+Magic Wand	imw
+Power Treads	ipow
+Power Treads	ipt
+Necronomicon	inec
+Maelstrom	imae
+Dezun Bloodrite	idez
+Dezun Bloodrite	idb
+Book of Shadows	iboo
+Book of Shadows	ibos
+Unwavering Condition	iunw
+Unwavering Condition	iuc
+Forebearer's Fortune	ifor
+Forebearer's Fortune	iff
+Buckler	ibuc
+Hyperstone	ihyp
+Radiance	irad
+Aghanim's Scepter	iagh
+Aghanim's Scepter	ias
+Helm of the Undying	ihel
+Helm of the Undying	ihotu
+Audacious	iaud
+Alert	iale
+Magic Lamp	imag
+Magic Lamp	iml
+Idol of Scree'Auk	iido
+Idol of Scree'Auk	iios
+Crown	icro
+Broom Handle	ibro
+Broom Handle	ibh
+Seer Stone	isee
+Seer Stone	iss
+Minotaur Horn	imin
+Minotaur Horn	imh
+Iron Talon	iiro
+Iron Talon	iit
+Enchanted Quiver	ienc
+Enchanted Quiver	ieq
+Staff of Wizardry	ista
+Staff of Wizardry	isow
+Pirate Hat	ipir
+Pirate Hat	iph
+Mystical	imys
+Vampire Fangs	ivam
+Vampire Fangs	ivf
+Repair Kit	irep
+Repair Kit	irk
+Daedalus	idae
+Fluffy Hat	iflu
+Fluffy Hat	ifh
+Illusionist's Cape	iill
+Illusionist's Cape	iic
+Titan Sliver	itit
+Titan Sliver	its
+Dominant	idom
+Faded Broach	ifad
+Faded Broach	ifb
+Royal Jelly	iroy
+Royal Jelly	irj
+Linken's Sphere	ilin
+Linken's Sphere	ils
+Quelling Blade	ique
+Quelling Blade	iqb
+Pocket Tower	ipoc
+Pocket Tower	ipt
+Clumsy Net	iclu
+Clumsy Net	icn
+Drum of Endurance	idru
+Drum of Endurance	idoe
+Morbid Mask	imor
+Morbid Mask	imm
+Khanda	ikha
+Moon Shard	imoo
+Moon Shard	ims
+The Leveller	ithe
+The Leveller	itl
+Talisman of Evasion	ital
+Talisman of Evasion	itoe
+Ceremonial Robe	icer
+Ceremonial Robe	icr
+Reaver	irea
+Keen Optic	ikee
+Keen Optic	iko
+Healing Salve	ihea
+Healing Salve	ihs
+Orb of Venom	iorb
+Orb of Venom	ioov
+Blades of Attack	ibla
+Blades of Attack	iboa
+Slippers of Agility	isli
+Slippers of Agility	isoa
+Sentry Ward	isen
+Sentry Ward	isw
 Trident	itri
-Trickster Cloak	itri
-Trickster Cloak	itc
-Wind Lace	iwin
-Wind Lace	iwl
-Magnifying Monocle	imag
-Magnifying Monocle	imm
-Claymore	icla
-Apex	iape
+Arcane Ring	iarc
+Arcane Ring	iar
+Tome of Aghanim	itom
+Tome of Aghanim	itoa
+Urn of Shadows	iurn
+Urn of Shadows	iuos
+Rod of Atos	irod
+Rod of Atos	iroa
+Refresher Shard	iref
+Refresher Shard	irs
+Robe of the Magi	irob
+Robe of the Magi	irotm
+Crimson Guard	icri
+Crimson Guard	icg
+Cornucopia	icor
+Outworld Staff	iout
+Outworld Staff	ios
+Overwhelming Blink	iove
+Overwhelming Blink	iob
+Harpoon	ihar
+Safety Bubble	isaf
+Safety Bubble	isb
+Dagger of Ristul	idag
+Dagger of Ristul	idor
+Mjollnir	imjo
+Mirror Shield	imir
+Mirror Shield	ims
+Tier 5 Token	itie
+Tier 5 Token	it5t
+Enchanted Mango	ienc
+Enchanted Mango	iem
+Unleashed	iunl
+Pocket Roshan	ipoc
+Pocket Roshan	ipr
+Satanic	isat
+Arcane Blink	iarc
+Arcane Blink	iab
+Sister's Shroud	isis
+Sister's Shroud	iss
+Town Portal Scroll	itow
+Town Portal Scroll	itps
+Falcon Blade	ifal
+Falcon Blade	ifb
+Shiva's Guard	ishi
+Shiva's Guard	isg
+Seeds of Serenity	isee
+Seeds of Serenity	isos
+Greedy	igre
+Vitality Booster	ivit
+Vitality Booster	ivb
+Penta-Edged Sword	ipen
+Penta-Edged Sword	ips
+Penta-Edged Sword	ipe
+Brigand's Blade	ibri
+Brigand's Blade	ibb
+Voodoo Mask	ivoo
+Voodoo Mask	ivm
+Tier 2 Token	itie
+Tier 2 Token	it2t
+Ring of Protection	irin
+Ring of Protection	irop
+Platemail	ipla
+Infused Raindrops	iinf
+Infused Raindrops	iir
+Ripper's Lash	irip
+Ripper's Lash	irl
+Specialist's Array	ispe
+Specialist's Array	isa
+Third Eye	ithi
+Third Eye	ite
+Chainmail	icha
+Iron Branch	iiro
+Iron Branch	iib
+Orb of Corrosion	iorb
+Orb of Corrosion	iooc
+Ex Machina	iex 
+Ex Machina	iem
 Divine Rapier	idiv
 Divine Rapier	idr
-Kobold Cup	ikob
-Kobold Cup	ikc
-Elixir	ieli
-Platemail	ipla
+Dragon Scale	idra
+Dragon Scale	ids
+Mithril Hammer	imit
+Mithril Hammer	imh
+Trickster Cloak	itri
+Trickster Cloak	itc
+Accursed	iacc
+Elven Tunic	ielv
+Elven Tunic	iet
+Restorative	ires
+Broadsword	ibro
+Soul Ring	isou
+Soul Ring	isr
+Flayer's Bota	ifla
+Flayer's Bota	ifb
+Magnifying Monocle	imag
+Magnifying Monocle	imm
 Ironwood Tree	iiro
 Ironwood Tree	iit
 Disgraced Regalia	idis
 Disgraced Regalia	idr
-Wraith Pact	iwra
-Wraith Pact	iwp
-Fleetfooted	ifle
-Bloodthorn	iblo
-Arcane Ring	iarc
-Arcane Ring	iar
-Philosopher's Stone	iphi
-Philosopher's Stone	ips
-Flicker	ifli
-Iron Branch	iiro
-Iron Branch	iib
-Greater Healing Lotus	igre
-Greater Healing Lotus	ighl
-Feverish	ifev
-Aviana's Feather	iavi
-Aviana's Feather	iaf
-Brigand's Blade	ibri
-Brigand's Blade	ibb
-Crown	icro
-Dragon Lance	idra
-Dragon Lance	idl
-Fierce	ifie
-Talisman of Evasion	ital
-Talisman of Evasion	itoe
-Vambrace	ivam
-Wind Waker	iwin
-Wind Waker	iww
-Greater Faerie Fire	igre
-Greater Faerie Fire	igff
-Mind Breaker	imin
-Mind Breaker	imb
-Helm of the Undying	ihel
-Helm of the Undying	ihotu
-Soul Ring	isou
-Soul Ring	isr
-Phoenix Ash	ipho
-Phoenix Ash	ipa
-Ancient Guardian	ianc
-Ancient Guardian	iag
-Ring of Basilius	irin
-Ring of Basilius	irob
-Overwhelming Blink	iove
-Overwhelming Blink	iob
-Demon Edge	idem
-Demon Edge	ide
-Wraith Band	iwra
-Wraith Band	iwb
-Aghanim's Blessing	iagh
-Aghanim's Blessing	iab
-Mercy & Grace	imer
-Mercy & Grace	im&g
-Town Portal Scroll	itow
-Town Portal Scroll	itps
-Refresher Orb	iref
-Refresher Orb	iro
-Tome of Knowledge	itom
-Tome of Knowledge	itok
-Unleashed	iunl
-Maelstrom	imae
-Enchanted Quiver	ienc
-Enchanted Quiver	ieq
-Mana Draught	iman
-Mana Draught	imd
-Dormant Curio	idor
-Dormant Curio	idc
-Solar Crest	isol
-Solar Crest	isc
-Harpoon	ihar
-Helm of Iron Will	ihel
-Helm of Iron Will	ihoiw
-Shadow of Vengeance	isha
-Shadow of Vengeance	isov
-Observer Ward	iobs
-Observer Ward	iow
-Observer and Sentry Wards	iobs
-Observer and Sentry Wards	ioasw
-Forebearer's Fortune	ifor
-Forebearer's Fortune	iff
-Tough	itou
-Cloak	iclo
-Essence Ring	iess
-Essence Ring	ier
-Black Grimoire	ibla
-Black Grimoire	ibg
+Bloodstone	iblo
+Ring of Regen	irin
+Ring of Regen	iror
+Pavise	ipav
 Pupil's Gift	ipup
 Pupil's Gift	ipg
-Fluffy Hat	iflu
-Fluffy Hat	ifh
-Third Eye	ithi
-Third Eye	ite
-Unrelenting Eye	iunr
-Unrelenting Eye	iue
-Magic Lamp	imag
-Magic Lamp	iml
+Echo Sabre	iech
+Echo Sabre	ies
+Ancient Guardian	ianc
+Ancient Guardian	iag
+Dragon Lance	idra
+Dragon Lance	idl
+Quickening Charm	iqui
+Quickening Charm	iqc
+Tumbler's Toy	itum
+Tumbler's Toy	itt
+Wind Waker	iwin
+Wind Waker	iww
+Aghanim's Shard	iagh
+Aghanim's Shard	ias
+Apex	iape
+Ninja Gear	inin
+Ninja Gear	ing
+Tome of Knowledge	itom
+Tome of Knowledge	itok
+Dust of Appearance	idus
+Dust of Appearance	idoa
+Dagon	idag
+Observer Ward	iobs
+Observer Ward	iow
+Tier 4 Token	itie
+Tier 4 Token	it4t
+Abyssal Blade	iaby
+Abyssal Blade	iab
+Kobold Cup	ikob
+Kobold Cup	ikc
+Lance of Pursuit	ilan
+Lance of Pursuit	ilop
+Javelin	ijav
+Tier 1 Token	itie
+Tier 1 Token	it1t
+Paladin Sword	ipal
+Paladin Sword	ips
+Boots of Travel 2	iboo
+Boots of Travel 2	ibot2
+Hand of Midas	ihan
+Hand of Midas	ihom
+Black Grimoire	ibla
+Black Grimoire	ibg
+Heaven's Halberd	ihea
+Heaven's Halberd	ihh
+Gris-Gris	igri
+Gris-Gris	igg
+Stygian Desolator	isty
+Stygian Desolator	isd
+Mask of Madness	imas
+Mask of Madness	imom
+Titanic	itit
+Divine Regalia	idiv
+Divine Regalia	idr
+Light Collector	ilig
+Light Collector	ilc
+Tango	itan
+Smoke of Deceit	ismo
+Smoke of Deceit	isod
 Gem of True Sight	igem
 Gem of True Sight	igots
 Woodland Striders	iwoo
 Woodland Striders	iws
-Healing Lotus	ihea
-Healing Lotus	ihl
-Cheese	iche
-Magic Wand	imag
-Magic Wand	imw
-Tier 4 Token	itie
-Tier 4 Token	it4t
-Crystalys	icry
-Orchid Malevolence	iorc
-Orchid Malevolence	iom
-Penta-Edged Sword	ipen
-Penta-Edged Sword	ips
-Penta-Edged Sword	ipe
-Grove Bow	igro
-Grove Bow	igb
-Broom Handle	ibro
-Broom Handle	ibh
-Crimson Guard	icri
-Crimson Guard	icg
-Quickening Charm	iqui
-Quickening Charm	iqc
-Aether Lens	iaet
-Aether Lens	ial
-Quickened	iqui
-Ghost Scepter	igho
-Ghost Scepter	igs
-Magic Stick	imag
-Magic Stick	ims
-Blade Mail	ibla
-Blade Mail	ibm
-Quicksilver Amulet	iqui
-Quicksilver Amulet	iqa
-Orb of Corrosion	iorb
-Orb of Corrosion	iooc
+Assault Cuirass	iass
+Assault Cuirass	iac
+Mage Slayer	imag
+Mage Slayer	ims
+Flicker	ifli
+Metamorphic Mandible	imet
+Metamorphic Mandible	imm
+Block of Cheese	iblo
+Block of Cheese	iboc
+Bloodthorn	iblo
+Armlet of Mordiggian	iarm
+Armlet of Mordiggian	iaom
+Fallen Sky	ifal
+Fallen Sky	ifs
+Gunpowder Gauntlet	igun
+Gunpowder Gauntlet	igg
+Disperser	idis
+Sacred Relic	isac
+Sacred Relic	isr
+Revenant's Brooch	irev
+Revenant's Brooch	irb
+Energy Booster	iene
+Energy Booster	ieb
+Boots of Speed	iboo
+Boots of Speed	ibos
+Bullwhip	ibul
+Silver Edge	isil
+Silver Edge	ise
+Ring of Health	irin
+Ring of Health	iroh
+Tranquil Boots	itra
+Tranquil Boots	itb
+Aghanim's Blessing	iagh
+Aghanim's Blessing	iab
+Greater Faerie Fire	igre
+Greater Faerie Fire	igff
+Parasma	ipar
+Battle Fury	ibat
+Battle Fury	ibf
+Philosopher's Stone	iphi
+Philosopher's Stone	ips
+Blood Grenade	iblo
+Blood Grenade	ibg
+Timeless	itim
+Wind Lace	iwin
+Wind Lace	iwl
+Hood of Defiance	ihoo
+Hood of Defiance	ihod
+Nemesis Curse	inem
+Nemesis Curse	inc
+Veil of Discord	ivei
+Veil of Discord	ivod

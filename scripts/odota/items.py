@@ -29,6 +29,8 @@ def main():
                 print(item)
             else:
                 dname = item['dname']
+                if '&' in dname:
+                    dname=dname.replace("&","and")
                 if ('(Shared)' not in dname ) and (' - ' not in dname) and ('Recipe' not in dname) and (':' not in dname):
 
                     names.append(dname)

@@ -6,6 +6,8 @@ ITEM="i"
 def writeHeros(names):
     result =[]
     for hero in names:
+        if hero == "Outworld Devourer":
+            hero="Outworld Destroyer"
         codes = []
         abcd=hero[0:3]
         codes.append(abcd.lower())

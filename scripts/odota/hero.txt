@@ -95,8 +95,8 @@ Gyrocopter	hgyr
 Alchemist	halc
 Invoker	hinv
 Silencer	hsil
-Outworld Devourer	hout
-Outworld Devourer	hod
+Outworld Destroyer	hout
+Outworld Destroyer	hod
 Lycan	hlyc
 Brewmaster	hbre
 Shadow Demon	hsha
@@ -170,3 +170,4 @@ Primal Beast	hpri
 Primal Beast	hpb
 Muerta	hmue
 Kez	hkez
+Largo	hlar
